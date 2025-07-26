@@ -1,0 +1,73 @@
+item {
+  id: 1
+  name: 'IssueBank'
+}
+item {
+  id: 2
+  name: 'ReceiverName'
+}
+item {
+  id: 3
+  name: 'AcNo'
+}
+item {
+  id: 4
+  name: 'Amt'
+}
+item {
+  id: 5
+  name: 'ChqNo'
+}
+item {
+  id: 6
+  name: 'DateIss'
+}
+item {
+  id: 7
+  name: 'Sign'
+}
+item {
+  id: 8
+  name: 'MICRCode'
+}
+item {
+  id: 9
+  name: 'IFSCCode'
+}
+item {
+  id: 10
+  name: 'AmtinWords'
+}
+item {
+  id: 11
+  name: 'BranchAdd'
+}
+item {
+  id: 1
+  name: 'IssueBank'
+}
+item {
+  id: 2
+  name: 'ReceiverName'
+}
+item {
+  id: 3
+  name: 'AcNo'
+}
+item {
+  id: 4
+  name: 'Amt'
+}
+item {
+  id: 5
+  name: 'ChqNo'
+}
+item {
+  id: 6
+  name: 'DateIss'
+}
+item {
+  id: 7
+  name: 'Sign'
+}
+

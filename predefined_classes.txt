@@ -1,0 +1,11 @@
+IssueBank
+ReceiverName
+AcNo
+Amt
+ChqNo
+DateIss
+Sign
+MICRCode
+IFSCCode
+AmtinWords
+BranchAdd
