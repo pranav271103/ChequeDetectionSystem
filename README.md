@@ -59,7 +59,7 @@ python app.py --source input/cheque.jpg --output results/
 
 ### Detection Results
 
-![Demo Cheque](demo_img/Cheque309149.jpg)
+![Demo Cheque](demo_img/Screenshot 2025-07-26 210341.png)
 
 #### Row 1
 <p float="left">
